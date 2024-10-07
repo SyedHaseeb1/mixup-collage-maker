@@ -13,7 +13,7 @@ The original repository has **no recent updates** and was somewhat outdated. To 
 
 ## Key Changes Made
 
-1. **Gradle Configuration:** Updated to the latest version of Gradle, ensuring smooth builds and compatibility with the latest Android/Java standards.
+1. **Gradle Configuration:** Updated to the latest version of Gradle (8.7), ensuring smooth builds and compatibility with the latest Android/Java standards.
 2. **Dependency Updates:** Adjusted outdated dependencies to their latest versions for improved stability and performance.
 3. **Bug Fixes:** Resolved minor bugs that arose during the Gradle migration and enhanced compatibility with newer environments.
 
@@ -22,7 +22,7 @@ The original repository has **no recent updates** and was somewhat outdated. To 
 To use **MixUp**, follow these steps:
 1. Clone the updated repository using the command:
     ```bash
-    git clone https://github.com/GerardBradshaw/MixUp
+    git clone https://github.com/SyedHaseeb1/mixup-collage-maker.git
     ```
 2. Open the project in your favorite IDE (Android Studio or IntelliJ recommended).
 3. Ensure you have the latest version of **Gradle** installed.
