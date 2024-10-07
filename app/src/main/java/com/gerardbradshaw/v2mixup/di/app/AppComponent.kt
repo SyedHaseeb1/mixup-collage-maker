@@ -7,6 +7,7 @@ import com.gerardbradshaw.v2mixup.di.moreapps.MoreAppsComponent
 import dagger.BindsInstance
 import dagger.Component
 import kotlinx.coroutines.CoroutineDispatcher
+import javax.inject.Inject
 import javax.inject.Named
 import javax.inject.Singleton
 

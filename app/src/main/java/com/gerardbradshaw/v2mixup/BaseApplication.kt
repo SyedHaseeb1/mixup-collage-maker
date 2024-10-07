@@ -7,13 +7,13 @@ import kotlinx.coroutines.Dispatchers.Default
 import kotlinx.coroutines.Dispatchers.IO
 import kotlinx.coroutines.Dispatchers.Main
 
+
 class BaseApplication : Application() {
 
   private lateinit var component: AppComponent
 
   override fun onCreate() {
     super.onCreate()
-
     component =
       DaggerAppComponent
         .builder()
